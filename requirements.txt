@@ -11,4 +11,3 @@ keras==2.2.0
 portpicker==1.2.0
 theano==1.0.2
 PyYAML==3.13
-#horvad removed
